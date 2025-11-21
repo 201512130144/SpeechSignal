@@ -1,0 +1,3 @@
+[submodule "TR-CNN"]
+	path = TR-CNN
+	url = https://github.com/splab-HRBUST/TR-CNN.git
